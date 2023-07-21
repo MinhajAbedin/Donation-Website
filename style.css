@@ -1,0 +1,151 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-size: 50px;
+}
+
+.first-section{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.first-section-text{
+    text-align: center;
+    word-wrap: break-word;
+    width: 30%;
+    padding-top: 10%;
+    padding-left: 30%;
+    color: aliceblue;
+    
+}
+.Donate-Now{
+    text-decoration: none;
+    margin: 1%;
+    padding: 1%;
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+.sec-two-div1{
+    text-align: center;
+    word-wrap: break-word;
+    width: 30%;
+    padding-left: 30%;
+    padding-top: 3%;
+}
+.sec-two-div2{
+    border-radius: 1%;
+    margin-left: 9%;
+    width: 80%;
+    display: flex;
+    padding: 1%;
+    background-color: rgb(235, 240, 240);
+}
+.sec-two-div21{
+    
+    border-radius: 2%;
+    margin-left: 6%;
+    padding: .5%;
+    background-color: rgb(170, 175, 171);
+    box-shadow: 15px 15px 40px rgb(83, 81, 77);
+}
+.sec-two-div3{
+    text-align: center;
+    width: 50%;
+    padding-left: 22%;
+    padding-top: 2%;
+
+}
+.sec-three-div1{
+    text-align: center;
+    word-wrap: break-word;
+    width: 30%;
+    padding-left: 30%;
+    padding-top: 3%;
+}
+.sec-three-div1 h1{
+    color: rgb(154, 90, 11);
+}
+.sec-three-div2{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    
+   
+    
+}
+#sec-three-head{
+    font-size: 32px;
+}
+.sec-three-div21{
+    width: 30%;
+    padding-left: 0%;
+    background-color: rgb(121, 121, 239);
+    padding: 1%;
+    border-radius: 10%;
+    margin-left: 2%;
+    
+}
+.sec-three-div21 img{
+    width: 40%;
+    margin-left: 25%;
+    padding-top: 3%;
+    border-radius: 10%;
+    box-shadow: 15px 15px 40px rgb(173, 203, 206);
+}
+#one-time-donate{
+    background-color: burlywood;
+}
+#Annual-Donation{
+    background-color: cornflowerblue;
+}
+#sec-four-head{
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(25, 74, 58);
+}
+.sec-four-half{
+    display: flex;
+    
+    
+}
+.sec-four-half1{
+    width: 60%;
+    padding: 5%;
+}
+.sec-four-half1 img{
+    width: 70%;
+    border-radius: 10%;
+    
+}
+.sec-five-div1{
+    text-align: center;
+}
+.sec-five-div2{
+    background-color: bisque;
+    width: 25%;
+    height: 10vh;
+    margin-left: 35%;
+    border-radius: 30%;
+    
+    
+}
+.gg{
+    padding-left: 20%;
+    padding-top: 8%;
+}
+footer{
+    text-align: center;
+    background-color: rgb(136, 138, 143);
+    border-radius: 2%;
+}
+
+
